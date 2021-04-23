@@ -3,7 +3,9 @@ Thank you for checking out my profile, hope you find what you are looking for!
 I am into Flutter development, Computer Vision, Computer Networking and Linux (can't forget Arch).
 
 ### My tech workflow
-Neovim + DWM + Arch Linux
+Neovim |   DWM   | Arch Linux  
+Python | Flutter | TypeScript  
+Bash   |  Clang  | Tensorflow 
 
 <!--
 **Darshan-H-E/Darshan-H-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
