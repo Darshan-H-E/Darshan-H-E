@@ -1,5 +1,5 @@
 ## Hello there! My name is Darshan.
-Thank you for checking out my profile, hope you find what you are looking for
+Thank you for checking out my profile, hope you find what you are looking for!  
 I am into Flutter development, Computer Vision, Computer Networking and Linux (can't forget Arch).
 
 ### My tech workflow
