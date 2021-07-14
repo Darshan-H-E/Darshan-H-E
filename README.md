@@ -4,8 +4,8 @@ I am into Flutter development, Computer Vision, Computer Networking and Linux.
 
 ### My tech workflow
 Neovim |   DWM   | Arch Linux  
-Java | Flutter | TypeScript  
-Python  | Tensorflow 
+Java   | Flutter | TypeScript  
+Python | Tensorflow 
 
 <!--
 **Darshan-H-E/Darshan-H-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
